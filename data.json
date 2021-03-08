@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "no_polisi": "B1923KJ",
+        "jenis_kendaraan": "mobil",
+        "waktu_masuk": "2021-03-07T03:47:05.240Z",
+        "waktu_keluar": "2021-03-08T10:43:25.989Z",
+        "base_cost": 8000,
+        "total_cost": 248000
+    },
+    {
+        "id": 2,
+        "no_polisi": "B0983PO",
+        "jenis_kendaraan": "motor",
+        "waktu_masuk": "2021-03-07T03:48:42.960Z",
+        "waktu_keluar": null,
+        "base_cost": 4000,
+        "total_cost": 0
+    },
+    {
+        "id": 3,
+        "no_polisi": "B7645Gf",
+        "jenis_kendaraan": "motor",
+        "waktu_masuk": "2021-03-07T04:47:57.950Z",
+        "waktu_keluar": null,
+        "base_cost": 4000,
+        "total_cost": 0
+    },
+    {
+        "id": 4,
+        "no_polisi": "B3122OP",
+        "jenis_kendaraan": "mobil",
+        "waktu_masuk": "2021-03-08T10:43:13.770Z",
+        "waktu_keluar": null,
+        "base_cost": 8000,
+        "total_cost": 0
+    }
+]
